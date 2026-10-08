@@ -40,12 +40,16 @@
 ## 📊 GitHub Stats | إحصائيات
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=l7v0l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l7v0l&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=l7v0l&theme=tokyonight&hide_border=true" />
-
+<table>
+<tr>
+<td align="center" valign="middle">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=l7v0l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&card_width=420" />
+</td>
+<td align="center" valign="middle">
+<img height="170" src="https://streak-stats.demolab.com/?user=l7v0l&theme=tokyonight&hide_border=true&card_width=420" />
+</td>
+</tr>
+</table>
 </div>
 
 ## 📈 Activity Graph | النشاط
