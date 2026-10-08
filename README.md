@@ -68,6 +68,7 @@
 |:--|:--|:--|
 | 🌐 **Portfolio** | موقعي الشخصي بتصميم متحرك وبلغتين | [l7v0l.github.io](https://l7v0l.github.io) |
 | 🔐 **مولّد كلمات السر** | يولّد كلمات سر آمنة داخل المتصفح، عربي مع وضع فاتح وداكن | [جرّبه](https://l7v0l.github.io/password-generator/) · [الكود](https://github.com/l7v0l/password-generator) |
+| 📊 **GitHub Insights** | يحلل أي حساب GitHub: لغات، نشاط، ومقارنة بين حسابين | [جرّبه](https://l7v0l.github.io/github-insights/) · [الكود](https://github.com/l7v0l/github-insights) |
 
 </div>
 
