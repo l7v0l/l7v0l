@@ -60,7 +60,12 @@
 
 </div>
 
+## 📫 Contact | تواصل معي
+
 <div align="center">
+
+<a href="https://x.com/l7vu7"><img src="https://img.shields.io/badge/X-@l7vu7-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="mailto:l7v0000v@gmail.com"><img src="https://img.shields.io/badge/Gmail-l7v0000v@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=100&section=footer" width="100%"/>
 
