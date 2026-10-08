@@ -64,6 +64,7 @@
 
 <div align="center">
 
+<a href="https://l7v0l.github.io"><img src="https://img.shields.io/badge/Portfolio-l7v0l.github.io-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://x.com/l7vu7"><img src="https://img.shields.io/badge/X-@l7vu7-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="mailto:l7v0000v@gmail.com"><img src="https://img.shields.io/badge/Gmail-l7v0000v@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
