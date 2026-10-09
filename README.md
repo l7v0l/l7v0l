@@ -70,6 +70,7 @@
 | 🔐 **مولّد كلمات السر** | يولّد كلمات سر آمنة داخل المتصفح، عربي مع وضع فاتح وداكن | [جرّبه](https://l7v0l.github.io/password-generator/) · [الكود](https://github.com/l7v0l/password-generator) |
 | 📊 **GitHub Insights** | يحلل أي حساب GitHub: لغات، نشاط، ومقارنة بين حسابين | [جرّبه](https://l7v0l.github.io/github-insights/) · [الكود](https://github.com/l7v0l/github-insights) |
 | 🗂️ **حوّل (Hawwil)** | تحويل وضغط أي ملف إلى PDF وصور وZIP داخل المتصفح، عربي وإنجليزي | [جرّبه](https://l7v0l.github.io/hawwil/) · [الكود](https://github.com/l7v0l/hawwil) |
+| 🗣️ **لسان (Lisan)** | تعلّم الإنجليزية من الصفر بالعربي: صوت واضح، صور لكل كلمة، تسجيل دخول وحفظ التقدم | [جرّبه](https://lisan-d3dc8.web.app) |
 
 </div>
 
