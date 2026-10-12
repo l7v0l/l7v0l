@@ -37,6 +37,20 @@
 
 </div>
 
+## 🚀 Projects | مشاريعي
+
+<div align="center">
+
+<a href="https://github.com/l7v0l/drift-browser">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l7v0l&repo=drift-browser&theme=tokyonight&hide_border=true" alt="Drift browser" />
+</a>
+
+**[Drift](https://github.com/l7v0l/drift-browser)** — Browse light. متصفح سطح مكتب خفيف يدعم العربية (RTL) والإنجليزية · Electron + React + TypeScript
+
+[🌐 Website](https://drift-browser.netlify.app) · [⬇️ Download](https://github.com/l7v0l/drift-browser/releases/latest)
+
+</div>
+
 ## 📊 GitHub Stats | إحصائيات
 
 <div align="center">
