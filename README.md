@@ -6,10 +6,15 @@
 
 <br/>
 
+**English** · [العربية](README.ar.md)
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=l7v0l&label=Profile+Views&color=1f6feb&style=for-the-badge" alt="views"/>
 <img src="https://img.shields.io/github/followers/l7v0l?label=Followers&style=for-the-badge&logo=github&color=8957e5" alt="followers"/>
-<img src="https://img.shields.io/badge/Web-Development-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="web"/>
-<img src="https://img.shields.io/badge/Languages-English%20%7C%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-8957e5?style=for-the-badge&logo=googletranslate&logoColor=white" alt="langs"/>
+<img src="https://img.shields.io/github/stars/l7v0l/hawwil?label=Hawwil&style=for-the-badge&logo=github&color=1f6feb" alt="hawwil stars"/>
+<img src="https://img.shields.io/github/last-commit/l7v0l/hawwil?label=Last%20commit&style=for-the-badge&color=8957e5" alt="last commit"/>
+<img src="https://img.shields.io/badge/Languages-English%20%7C%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-1f6feb?style=for-the-badge&logo=googletranslate&logoColor=white" alt="langs"/>
 
 </div>
 
@@ -29,6 +34,30 @@
 
 </div>
 
+## 🔭 Working on now | أشتغل عليه الآن
+
+<!--NOW:START-->
+| Project | Last commit | When |
+|:--|:--|:--|
+| [**drift-browser**](https://github.com/l7v0l/drift-browser) | feat(adblock): built-in ad and tracker blocker | 3d ago |
+| [**hawwil**](https://github.com/l7v0l/hawwil) | Add Hawwil: convert and compress files in the browser | 7d ago |
+| [**github-insights**](https://github.com/l7v0l/github-insights) | Remove how-it-works and project structure sections | 7d ago |
+| [**password-generator**](https://github.com/l7v0l/password-generator) | Remove how-it-works and project structure sections | 7d ago |
+<!--NOW:END-->
+
+## 💬 Ask me about | اسألني عن
+
+- Web development: HTML, CSS, JavaScript, TypeScript, React
+- Privacy-first tools that run fully in the browser
+- Arabic (RTL) interfaces and Arabic text in PDFs
+- Electron desktop apps
+
+## 🤝 Open to collaborate on | أبحث عن تعاون في
+
+- Open-source Arabic developer tools
+- Browser-only utilities (PDF, images, files)
+- Learning apps for Arabic speakers
+
 ## 🛠️ Tech Stack | التقنيات
 
 <div align="center">
@@ -41,13 +70,14 @@
 
 <div align="center">
 
-<a href="https://github.com/l7v0l/drift-browser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=l7v0l&repo=drift-browser&theme=tokyonight&hide_border=true" alt="Drift browser" />
-</a>
-
-**[Drift](https://github.com/l7v0l/drift-browser)** — Browse light. متصفح سطح مكتب خفيف يدعم العربية (RTL) والإنجليزية · Electron + React + TypeScript
-
-[🌐 Website](https://drift-browser.netlify.app) · [⬇️ Download](https://github.com/l7v0l/drift-browser/releases/latest)
+| المشروع | الوصف | الرابط |
+|:--|:--|:--|
+| 🌍 **Drift** | Browse light. متصفح سطح مكتب خفيف يدعم العربية (RTL) والإنجليزية · Electron + React + TypeScript | [الموقع](https://drift-browser.netlify.app) · [تحميل](https://github.com/l7v0l/drift-browser/releases/latest) · [الكود](https://github.com/l7v0l/drift-browser) |
+| 🗂️ **حوّل (Hawwil)** | تحويل وضغط أي ملف إلى PDF وصور وZIP داخل المتصفح، عربي وإنجليزي | [جرّبه](https://l7v0l.github.io/hawwil/) · [الكود](https://github.com/l7v0l/hawwil) |
+| 🗣️ **لسان (Lisan)** | تعلّم الإنجليزية من الصفر بالعربي: صوت واضح، صور لكل كلمة، تسجيل دخول وحفظ التقدم | [جرّبه](https://lisan-d3dc8.web.app) · [الكود](https://github.com/l7v0l/lisan) |
+| 📊 **GitHub Insights** | يحلل أي حساب GitHub: لغات، نشاط، ومقارنة بين حسابين | [جرّبه](https://l7v0l.github.io/github-insights/) · [الكود](https://github.com/l7v0l/github-insights) |
+| 🔐 **مولّد كلمات السر** | يولّد كلمات سر آمنة داخل المتصفح، عربي مع وضع فاتح وداكن | [جرّبه](https://l7v0l.github.io/password-generator/) · [الكود](https://github.com/l7v0l/password-generator) |
+| 🌐 **Portfolio** | موقعي الشخصي بتصميم متحرك وبلغتين | [جرّبه](https://l7v0l.github.io) · [الكود](https://github.com/l7v0l/l7v0l.github.io) |
 
 </div>
 
@@ -56,37 +86,32 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" valign="middle">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=l7v0l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&card_width=420" />
-</td>
-<td align="center" valign="middle">
-<img height="170" src="https://streak-stats.demolab.com/?user=l7v0l&theme=tokyonight&hide_border=true&card_width=420" />
-</td>
+<td align="center" valign="middle"><img src="assets/stats.svg" alt="GitHub stats" /></td>
+<td align="center" valign="middle"><img src="assets/langs.svg" alt="Top languages" /></td>
+</tr>
+<tr>
+<td align="center" colspan="2"><img src="https://streak-stats.demolab.com/?user=l7v0l&theme=tokyonight&hide_border=true&card_width=420" alt="Streak" /></td>
 </tr>
 </table>
 </div>
 
-## 📈 Activity Graph | النشاط
+## 🐍 Activity | النشاط
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/58a6ff/l7v0l" alt="Contribution graph" width="100%" />
+<img src="assets/snake.svg" alt="Contribution snake" width="100%" />
 
 </div>
 
-## 🚀 Projects | مشاريعي
+## 📖 Guestbook | سجل الزوار
 
-<div align="center">
+Leave a comment in the [Guestbook](https://github.com/l7v0l/l7v0l/issues/1). | اترك تعليقاً في [سجل الزوار](https://github.com/l7v0l/l7v0l/issues/1).
 
-| المشروع | الوصف | الرابط |
-|:--|:--|:--|
-| 🌐 **Portfolio** | موقعي الشخصي بتصميم متحرك وبلغتين | [جرّبه](https://l7v0l.github.io) · [الكود](https://github.com/l7v0l/l7v0l.github.io) |
-| 🔐 **مولّد كلمات السر** | يولّد كلمات سر آمنة داخل المتصفح، عربي مع وضع فاتح وداكن | [جرّبه](https://l7v0l.github.io/password-generator/) · [الكود](https://github.com/l7v0l/password-generator) |
-| 📊 **GitHub Insights** | يحلل أي حساب GitHub: لغات، نشاط، ومقارنة بين حسابين | [جرّبه](https://l7v0l.github.io/github-insights/) · [الكود](https://github.com/l7v0l/github-insights) |
-| 🗂️ **حوّل (Hawwil)** | تحويل وضغط أي ملف إلى PDF وصور وZIP داخل المتصفح، عربي وإنجليزي | [جرّبه](https://l7v0l.github.io/hawwil/) · [الكود](https://github.com/l7v0l/hawwil) |
-| 🗣️ **لسان (Lisan)** | تعلّم الإنجليزية من الصفر بالعربي: صوت واضح، صور لكل كلمة، تسجيل دخول وحفظ التقدم | [جرّبه](https://lisan-d3dc8.web.app) |
+## 💡 Quote | اقتباس
 
-</div>
+<!--QUOTE:START-->
+> _First, solve the problem. Then, write the code._ — **John Johnson**
+<!--QUOTE:END-->
 
 ## 📫 Contact | تواصل معي
 
@@ -95,6 +120,12 @@
 <a href="https://l7v0l.github.io"><img src="https://img.shields.io/badge/Portfolio-l7v0l.github.io-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://x.com/l7vu7"><img src="https://img.shields.io/badge/X-@l7vu7-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="mailto:l7v0000v@gmail.com"><img src="https://img.shields.io/badge/Gmail-l7v0000v@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/>
+
+<!--STAMP:START-->
+<sub>Auto-updated 2026-10-16</sub>
+<!--STAMP:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=100&section=footer" width="100%"/>
 
