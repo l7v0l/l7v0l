@@ -73,6 +73,7 @@
 | المشروع | الوصف | الرابط |
 |:--|:--|:--|
 | 🌍 **Drift** | Browse light. متصفح سطح مكتب خفيف يدعم العربية (RTL) والإنجليزية · Electron + React + TypeScript | [الموقع](https://drift-browser.netlify.app) · [تحميل](https://github.com/l7v0l/drift-browser/releases/latest) · [الكود](https://github.com/l7v0l/drift-browser) |
+| 💡 **Lumen** | Password, card and secure-note manager. Encrypted vault, PIN + biometric unlock, Google Drive backup, Arabic / English / Chinese · React + TypeScript + Tauri | [جرّبه](https://l7v0l.github.io/lumen-vault/) · [تحميل](https://github.com/l7v0l/lumen-vault/releases/latest) · [الكود](https://github.com/l7v0l/lumen-vault) |
 | 🗂️ **حوّل (Hawwil)** | 16 أداة داخل المتصفح: PDF، HEIC، وورد، ضغط الصور، فيديو إلى صوت وعكسه، بدون رفع ملفات، عربي وإنجليزي | [جرّبه](https://l7v0l.github.io/hawwil/) · [الكود](https://github.com/l7v0l/hawwil) |
 | 🗣️ **لسان (Lisan)** | تعلّم الإنجليزية من الصفر بالعربي: صوت واضح، صور لكل كلمة، تسجيل دخول وحفظ التقدم | [جرّبه](https://lisan-d3dc8.web.app) · [الكود](https://github.com/l7v0l/lisan) |
 | 📊 **GitHub Insights** | يحلل أي حساب GitHub: لغات، نشاط، ومقارنة بين حسابين | [جرّبه](https://l7v0l.github.io/github-insights/) · [الكود](https://github.com/l7v0l/github-insights) |
