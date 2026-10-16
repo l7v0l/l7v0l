@@ -73,7 +73,7 @@
 | المشروع | الوصف | الرابط |
 |:--|:--|:--|
 | 🌍 **Drift** | Browse light. متصفح سطح مكتب خفيف يدعم العربية (RTL) والإنجليزية · Electron + React + TypeScript | [الموقع](https://drift-browser.netlify.app) · [تحميل](https://github.com/l7v0l/drift-browser/releases/latest) · [الكود](https://github.com/l7v0l/drift-browser) |
-| 🗂️ **حوّل (Hawwil)** | تحويل وضغط أي ملف إلى PDF وصور وZIP داخل المتصفح، عربي وإنجليزي | [جرّبه](https://l7v0l.github.io/hawwil/) · [الكود](https://github.com/l7v0l/hawwil) |
+| 🗂️ **حوّل (Hawwil)** | 16 أداة داخل المتصفح: PDF، HEIC، وورد، ضغط الصور، فيديو إلى صوت وعكسه، بدون رفع ملفات، عربي وإنجليزي | [جرّبه](https://l7v0l.github.io/hawwil/) · [الكود](https://github.com/l7v0l/hawwil) |
 | 🗣️ **لسان (Lisan)** | تعلّم الإنجليزية من الصفر بالعربي: صوت واضح، صور لكل كلمة، تسجيل دخول وحفظ التقدم | [جرّبه](https://lisan-d3dc8.web.app) · [الكود](https://github.com/l7v0l/lisan) |
 | 📊 **GitHub Insights** | يحلل أي حساب GitHub: لغات، نشاط، ومقارنة بين حسابين | [جرّبه](https://l7v0l.github.io/github-insights/) · [الكود](https://github.com/l7v0l/github-insights) |
 | 🔐 **مولّد كلمات السر** | يولّد كلمات سر آمنة داخل المتصفح، عربي مع وضع فاتح وداكن | [جرّبه](https://l7v0l.github.io/password-generator/) · [الكود](https://github.com/l7v0l/password-generator) |
