@@ -31,10 +31,10 @@
 <!--NOW:START-->
 | Project | Last commit | When |
 |:--|:--|:--|
-| [**english-app**](https://github.com/l7v0l/english-app) | Add English learning site: words, 1000-word packs, stories, library | 3d ago |
-| [**Assistix**](https://github.com/l7v0l/Assistix) | Add Render free-tier deployment (Dockerfile, render.yaml, health check) | 11d ago |
-| [**lumen-vault**](https://github.com/l7v0l/lumen-vault) | README: Android download | 12d ago |
-| [**drift-browser**](https://github.com/l7v0l/drift-browser) | docs: add issue templates | 12d ago |
+| [**english-app**](https://github.com/l7v0l/english-app) | Add English learning site: words, 1000-word packs, stories, library | 4d ago |
+| [**Assistix**](https://github.com/l7v0l/Assistix) | Add Render free-tier deployment (Dockerfile, render.yaml, health check) | 12d ago |
+| [**lumen-vault**](https://github.com/l7v0l/lumen-vault) | README: Android download | 13d ago |
+| [**drift-browser**](https://github.com/l7v0l/drift-browser) | docs: add issue templates | 13d ago |
 <!--NOW:END-->
 
 <div dir="rtl">
@@ -102,7 +102,7 @@
 </div>
 
 <!--QUOTE:START-->
-> _Any fool can write code a computer can understand._ — **Martin Fowler**
+> _Programs must be written for people to read._ — **Harold Abelson**
 <!--QUOTE:END-->
 
 <div dir="rtl">
@@ -120,7 +120,7 @@
 <br/>
 
 <!--STAMP:START-->
-<sub>Auto-updated 2026-10-29</sub>
+<sub>Auto-updated 2026-10-30</sub>
 <!--STAMP:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=100&section=footer" width="100%"/>
