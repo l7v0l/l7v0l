@@ -31,10 +31,10 @@
 <!--NOW:START-->
 | Project | Last commit | When |
 |:--|:--|:--|
-| [**english-app**](https://github.com/l7v0l/english-app) | Add English learning site: words, 1000-word packs, stories, library | 4d ago |
-| [**Assistix**](https://github.com/l7v0l/Assistix) | Add Render free-tier deployment (Dockerfile, render.yaml, health check) | 12d ago |
-| [**lumen-vault**](https://github.com/l7v0l/lumen-vault) | README: Android download | 13d ago |
-| [**drift-browser**](https://github.com/l7v0l/drift-browser) | docs: add issue templates | 13d ago |
+| [**english-app**](https://github.com/l7v0l/english-app) | Add English learning site: words, 1000-word packs, stories, library | 5d ago |
+| [**Assistix**](https://github.com/l7v0l/Assistix) | Add Render free-tier deployment (Dockerfile, render.yaml, health check) | 13d ago |
+| [**lumen-vault**](https://github.com/l7v0l/lumen-vault) | README: Android download | 14d ago |
+| [**drift-browser**](https://github.com/l7v0l/drift-browser) | docs: add issue templates | 14d ago |
 <!--NOW:END-->
 
 <div dir="rtl">
@@ -102,7 +102,7 @@
 </div>
 
 <!--QUOTE:START-->
-> _Programs must be written for people to read._ — **Harold Abelson**
+> _Talk is cheap. Show me the code._ — **Linus Torvalds**
 <!--QUOTE:END-->
 
 <div dir="rtl">
@@ -120,7 +120,7 @@
 <br/>
 
 <!--STAMP:START-->
-<sub>Auto-updated 2026-10-30</sub>
+<sub>Auto-updated 2026-10-31</sub>
 <!--STAMP:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=100&section=footer" width="100%"/>
