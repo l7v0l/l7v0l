@@ -31,10 +31,10 @@
 <!--NOW:START-->
 | Project | Last commit | When |
 |:--|:--|:--|
-| [**english-app**](https://github.com/l7v0l/english-app) | Add English learning site: words, 1000-word packs, stories, library | 14d ago |
-| [**Assistix**](https://github.com/l7v0l/Assistix) | Add Render free-tier deployment (Dockerfile, render.yaml, health check) | 22d ago |
-| [**lumen-vault**](https://github.com/l7v0l/lumen-vault) | README: Android download | 23d ago |
-| [**drift-browser**](https://github.com/l7v0l/drift-browser) | docs: add issue templates | 23d ago |
+| [**english-app**](https://github.com/l7v0l/english-app) | Add English learning site: words, 1000-word packs, stories, library | 15d ago |
+| [**Assistix**](https://github.com/l7v0l/Assistix) | Add Render free-tier deployment (Dockerfile, render.yaml, health check) | 23d ago |
+| [**lumen-vault**](https://github.com/l7v0l/lumen-vault) | README: Android download | 24d ago |
+| [**drift-browser**](https://github.com/l7v0l/drift-browser) | docs: add issue templates | 24d ago |
 <!--NOW:END-->
 
 <div dir="rtl">
@@ -102,7 +102,7 @@
 </div>
 
 <!--QUOTE:START-->
-> _First, solve the problem. Then, write the code._ — **John Johnson**
+> _Simplicity is the soul of efficiency._ — **Austin Freeman**
 <!--QUOTE:END-->
 
 <div dir="rtl">
@@ -120,7 +120,7 @@
 <br/>
 
 <!--STAMP:START-->
-<sub>Auto-updated 2026-11-09</sub>
+<sub>Auto-updated 2026-11-10</sub>
 <!--STAMP:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=100&section=footer" width="100%"/>
