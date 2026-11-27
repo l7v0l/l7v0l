@@ -111,7 +111,7 @@ Leave a comment in the [Guestbook](https://github.com/l7v0l/l7v0l/issues/1). | �
 ## 💡 Quote | اقتباس
 
 <!--QUOTE:START-->
-> _Simplicity is the soul of efficiency._ — **Austin Freeman**
+> _Make it work, make it right, make it fast._ — **Kent Beck**
 <!--QUOTE:END-->
 
 ## 📫 Contact | تواصل معي
@@ -125,7 +125,7 @@ Leave a comment in the [Guestbook](https://github.com/l7v0l/l7v0l/issues/1). | �
 <br/>
 
 <!--STAMP:START-->
-<sub>Auto-updated 2026-11-26</sub>
+<sub>Auto-updated 2026-11-27</sub>
 <!--STAMP:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=100&section=footer" width="100%"/>
