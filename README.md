@@ -111,7 +111,7 @@ Leave a comment in the [Guestbook](https://github.com/l7v0l/l7v0l/issues/1). | �
 ## 💡 Quote | اقتباس
 
 <!--QUOTE:START-->
-> _Make it work, make it right, make it fast._ — **Kent Beck**
+> _Code is like humor. When you have to explain it, it's bad._ — **Cory House**
 <!--QUOTE:END-->
 
 ## 📫 Contact | تواصل معي
@@ -125,7 +125,7 @@ Leave a comment in the [Guestbook](https://github.com/l7v0l/l7v0l/issues/1). | �
 <br/>
 
 <!--STAMP:START-->
-<sub>Auto-updated 2026-11-27</sub>
+<sub>Auto-updated 2026-11-28</sub>
 <!--STAMP:END-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=100&section=footer" width="100%"/>
